@@ -11,5 +11,6 @@ ReactDOM.render(
 registerServiceWorker();
 
 
+
 // create-react-appを使ってReactコンポーネントの素振り、GitHub Pagesへのデプロイまで
 // https://blog.wadackel.me/2016/create-react-app/
